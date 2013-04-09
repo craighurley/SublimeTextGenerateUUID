@@ -1,7 +1,7 @@
 GenerateUUID
 ============
 
-Sublime Text to generate a UUID.
+Sublime Text plugin to generate a UUID.
 
 ## Installation
 ### with git
