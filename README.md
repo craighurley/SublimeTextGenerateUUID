@@ -4,8 +4,10 @@ GenerateUUID
 Sublime Text plugin to generate a UUID.
 
 ## Installation
-### with git
+### git
     git clone https://github.com/craighurley/SublimeTextGenerateUUID.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/GenerateUUID
+or
+    git clone https://github.com/craighurley/SublimeTextGenerateUUID.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/GenerateUUID
 
 ## Usage
 To generate a UUID (version 4), simply press the following keys:
