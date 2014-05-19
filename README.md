@@ -1,4 +1,4 @@
-GenerateUUID
+sublime-generate-uuid
 ============
 
 Sublime Text plugin to generate a UUID.
